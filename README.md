@@ -1,2 +1,2 @@
 # YabyerSites
-Website to be hosted by github pages
+Personal Website to be hosted by github pages
